@@ -398,4 +398,3 @@ C:\Users\NASSY GAME\source\repos\TP5\obj\Debug\net9.0\refint\TP5.dll
 C:\Users\NASSY GAME\source\repos\TP5\obj\Debug\net9.0\TP5.pdb
 C:\Users\NASSY GAME\source\repos\TP5\obj\Debug\net9.0\TP5.genruntimeconfig.cache
 C:\Users\NASSY GAME\source\repos\TP5\obj\Debug\net9.0\ref\TP5.dll
-C:\Users\NASSY GAME\source\repos\TP5\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
